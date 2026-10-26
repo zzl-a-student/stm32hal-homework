@@ -13,6 +13,7 @@
 
 # 本文件自身也要提交
 !/.gitignore
+!/.gitattributes
 
 # ---- homework2/LEDflow：放行 STM32 工程源码（build/ 产物仍被忽略）----
 !homework2/LEDflow/*.ioc
