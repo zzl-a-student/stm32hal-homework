@@ -27,3 +27,7 @@
 !homework2/LEDflow/Drivers/**/*.c
 !homework2/LEDflow/Drivers/**/*.h
 !homework2/LEDflow/Drivers/**/*.txt
+!homework2/LEDflow/Middlewares/**/*.c
+!homework2/LEDflow/Middlewares/**/*.h
+!homework2/LEDflow/Middlewares/**/*.txt
+!homework2/LEDflow/Middlewares/**/LICENSE
