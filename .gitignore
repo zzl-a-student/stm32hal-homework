@@ -15,6 +15,9 @@
 !/.gitignore
 !/.gitattributes
 
+# homework2 演示视频
+!homework2/video/*.mp4
+
 # ---- homework2/LEDflow：放行 STM32 工程源码（build/ 产物仍被忽略）----
 !homework2/LEDflow/*.ioc
 !homework2/LEDflow/CMakeLists.txt
