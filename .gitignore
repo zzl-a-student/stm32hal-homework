@@ -13,3 +13,17 @@
 
 # 本文件自身也要提交
 !/.gitignore
+
+# ---- homework2/LEDflow：放行 STM32 工程源码（build/ 产物仍被忽略）----
+!homework2/LEDflow/*.ioc
+!homework2/LEDflow/CMakeLists.txt
+!homework2/LEDflow/CMakePresets.json
+!homework2/LEDflow/*.ld
+!homework2/LEDflow/*.s
+!homework2/LEDflow/Core/**/*.c
+!homework2/LEDflow/Core/**/*.h
+!homework2/LEDflow/cmake/**/*.cmake
+!homework2/LEDflow/cmake/**/*.txt
+!homework2/LEDflow/Drivers/**/*.c
+!homework2/LEDflow/Drivers/**/*.h
+!homework2/LEDflow/Drivers/**/*.txt
