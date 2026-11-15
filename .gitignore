@@ -35,3 +35,17 @@
 !homework2/LEDflow/Middlewares/**/*.h
 !homework2/LEDflow/Middlewares/**/*.txt
 !homework2/LEDflow/Middlewares/**/LICENSE
+
+# ---- homework3：放行 STM32 工程源码（build/ 产物仍被忽略）----
+!homework3/*.ioc
+!homework3/*.ld
+!homework3/*.s
+!homework3/CMakeLists.txt
+!homework3/CMakePresets.json
+!homework3/Core/**/*.c
+!homework3/Core/**/*.h
+!homework3/cmake/**/*.cmake
+!homework3/cmake/**/*.txt
+!homework3/Drivers/**/*.c
+!homework3/Drivers/**/*.h
+!homework3/Drivers/**/*.txt
