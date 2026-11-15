@@ -52,3 +52,6 @@
 
 # 本地笔记不上传
 homework3/.workbuddy/
+
+# homework3 演示视频
+!homework3/video/*.mp4
